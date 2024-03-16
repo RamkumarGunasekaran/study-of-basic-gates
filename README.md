@@ -1,4 +1,4 @@
- # Name: RAMKUMAR G
+  # Name: RAMKUMAR G
  # Roll No: 212223220084
 # Experiment 01: Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
 
@@ -90,19 +90,21 @@ xnor(y7,a,b);
 
 endmodule
 ```
- # TRUTH TABLE:
+ # LOGIC SYMBOL &TRUTH TABLE:
  ![TRUTH TABLE](https://github.com/RamkumarGunasekaran/study-of-basic-gates/assets/144870820/b03c22d9-c810-4a20-83a3-1c902bd70195)
 
 
  
  
-**Logic symbol & Truthtable**
+
 
 **RTL realization Output:** 
 
+![Screenshot (64)](https://github.com/RamkumarGunasekaran/study-of-basic-gates/assets/144870820/ae4d883d-6344-4fa0-bbb9-d89a1b6a33b5)
 
 **RTL**
+![Screenshot (65)](https://github.com/RamkumarGunasekaran/study-of-basic-gates/assets/144870820/d0052645-c005-425c-84a6-ea8e72c3a887)
 
 **Result:**
-
+Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
 
