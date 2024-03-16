@@ -1,4 +1,6 @@
-### study-of-basic-gates
+ # Name: RAMKUMAR G
+ # Roll No: 212223220084
+# Experiment 01: Study of basic digital IC’s and verification of truth tables for different logic gates, realization using Verilog
 
 **AIM:** 
 
@@ -64,13 +66,40 @@ Y= A⊕B
 
 **PROGRAM**
 
-Program for logic gates and verify its truth table in quartus using Verilog programming
+# Program for logic gates:
+```
+module logicgates(a,b,y1,y2,y3,y4,y5,y6,y7);
 
- Developed by: RegisterNumber: 
+input a,b;
+
+output y1,y2,y3,y4,y5,y6,y7;
+
+and(y1,a,b);
+
+or(y2,a,b);
+
+not(y3,a);
+
+xor(y4,a,b);
+
+nand(y5,a,b);
+
+nor(y6,a,b);
+
+xnor(y7,a,b);
+
+endmodule
+```
+ # TRUTH TABLE:
+ ![TRUTH TABLE](https://github.com/RamkumarGunasekaran/study-of-basic-gates/assets/144870820/b03c22d9-c810-4a20-83a3-1c902bd70195)
+
+
+ 
  
 **Logic symbol & Truthtable**
 
 **RTL realization Output:** 
+
 
 **RTL**
 
